@@ -1,0 +1,13 @@
+C:\Users\Lauren\source\repos\Lab9 Refactoring\bin\Debug\netcoreapp3.1\Lab9 Refactoring.exe
+C:\Users\Lauren\source\repos\Lab9 Refactoring\bin\Debug\netcoreapp3.1\Lab9 Refactoring.deps.json
+C:\Users\Lauren\source\repos\Lab9 Refactoring\bin\Debug\netcoreapp3.1\Lab9 Refactoring.runtimeconfig.json
+C:\Users\Lauren\source\repos\Lab9 Refactoring\bin\Debug\netcoreapp3.1\Lab9 Refactoring.runtimeconfig.dev.json
+C:\Users\Lauren\source\repos\Lab9 Refactoring\bin\Debug\netcoreapp3.1\Lab9 Refactoring.dll
+C:\Users\Lauren\source\repos\Lab9 Refactoring\bin\Debug\netcoreapp3.1\Lab9 Refactoring.pdb
+C:\Users\Lauren\source\repos\Lab9 Refactoring\obj\Debug\netcoreapp3.1\Lab9 Refactoring.csprojAssemblyReference.cache
+C:\Users\Lauren\source\repos\Lab9 Refactoring\obj\Debug\netcoreapp3.1\Lab9 Refactoring.AssemblyInfoInputs.cache
+C:\Users\Lauren\source\repos\Lab9 Refactoring\obj\Debug\netcoreapp3.1\Lab9 Refactoring.AssemblyInfo.cs
+C:\Users\Lauren\source\repos\Lab9 Refactoring\obj\Debug\netcoreapp3.1\Lab9 Refactoring.csproj.CoreCompileInputs.cache
+C:\Users\Lauren\source\repos\Lab9 Refactoring\obj\Debug\netcoreapp3.1\Lab9 Refactoring.dll
+C:\Users\Lauren\source\repos\Lab9 Refactoring\obj\Debug\netcoreapp3.1\Lab9 Refactoring.pdb
+C:\Users\Lauren\source\repos\Lab9 Refactoring\obj\Debug\netcoreapp3.1\Lab9 Refactoring.genruntimeconfig.cache
